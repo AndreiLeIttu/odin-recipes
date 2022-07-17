@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(202, 213, 226);
+}
+
+li {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+h1{
+    margin-left: 20px;
+}
